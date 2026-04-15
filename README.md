@@ -44,3 +44,4 @@ Les étudiants apprendront à :
 Ce dépôt est destiné **exclusivement à des fins pédagogiques** dans le cadre du cours BIDABI.  
 Le code et les ressources peuvent être simplifiés ou modifiés pour faciliter l’apprentissage.
 
+Mise à jour environnement Python 3.12
