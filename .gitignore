@@ -210,3 +210,8 @@ __pycache__/
 *.pyc
 data/raw/
 data/interim/
+
+data/raw/
+data/raw/images/
+!data/raw.dvc
+data/localstore/
