@@ -216,3 +216,4 @@ data/raw/images/
 !data/raw.dvc
 data/localstore/
 /model.pth
+/model_best.pth
